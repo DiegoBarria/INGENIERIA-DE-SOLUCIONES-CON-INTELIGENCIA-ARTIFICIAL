@@ -1,0 +1,3 @@
+# INGENIERIA-DE-SOLUCIONES-CON-INTELIGENCIA-ARTIFICIAL EV-1
+
+Fernando Castillo, Diego Barria y Pablo Toro
